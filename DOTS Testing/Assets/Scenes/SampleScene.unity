@@ -327,9 +327,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   meshObject: {fileID: 4300000, guid: 578b200637772dc4e8d391087e678597, type: 3}
   meshMaterial: {fileID: 2100000, guid: 009e5b9c7a2fb6a4799a53229568d9c3, type: 2}
-  numHorizontal: 5
-  numVertical: 5
-  numDepth: 5
+  numHorizontal: 2
+  numVertical: 2
+  numDepth: 2
   PaddingX: 12
   PaddingY: 5
   PaddingZ: 5
